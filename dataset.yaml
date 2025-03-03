@@ -1,0 +1,5 @@
+path: /Users/furkanemre/Desktop/abc
+train: images/train
+val: images/val
+nc: 1  # Number of classes (just "climbing")
+names: ["climbing"]
